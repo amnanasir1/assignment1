@@ -1,0 +1,9 @@
+DepartureDate 11/11/11
+DepartureTime 1:40
+ArrivalDate 11/11/11
+ArrivalTime 6:30
+rows A,B,C,D
+row1 *,*,x,*
+row2 x,*,*,*
+row3 x,*,*,*
+row4 x,x,*,x

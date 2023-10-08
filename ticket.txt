@@ -1,0 +1,3 @@
+Name: amna
+Flight Company: Flight Company A
+Ticker: Row 1 Seat c
